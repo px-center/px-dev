@@ -1,0 +1,10 @@
+{
+  "staging": "https://staging.motoristapx.com.br",
+  "contratos1": "https://contratos1.dev.px.center",
+  "contratos2": "https://contratos2.dev.px.center",
+  "academia": "https://academia.dev.px.center",
+  "riscos": "https://riscos.dev.px.center",
+  "qualificacao": "https://qualificacao.dev.px.center",
+  "aquisicao": "https://aquisicao.dev.px.center",
+  "financeiro": "https://financeiro.dev.px.center"
+}
