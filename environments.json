@@ -1,4 +1,5 @@
 {
+  "version": "1.0",
   "staging": "https://staging.motoristapx.com.br",
   "dev": {
     "academia": "https://academia.dev.px.center",
