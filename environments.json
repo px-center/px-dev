@@ -8,6 +8,11 @@
     "contratos2": "https://contratos2.dev.px.center",
     "financeiro": "https://financeiro.dev.px.center",
     "qualificacao": "https://qualificacao.dev.px.center",
-    "riscos": "https://riscos.dev.px.center"
+    "riscos": "https://riscos.dev.px.center",
+    "ativacao": "https://ativacao.dev.px.center",
+    "engajamento": "https://engajamento.dev.px.center",
+    "execucao": "https://execucao.dev.px.center",
+    "matchmaking": "https://matchmaking.dev.px.center",
+    "usops": "https://usops.dev.px.center"
   }
 }
